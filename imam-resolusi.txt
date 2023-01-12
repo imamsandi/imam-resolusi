@@ -3,3 +3,4 @@ Imam Resolusi
 - Konsisten Membuat Konten Tiktok
 - Membuat Database Vaksinasi
 - Membuat form registrasi facebook
+- Menjadi programmer
